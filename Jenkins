@@ -16,4 +16,8 @@ To filter the required packages
 To remove any package 
 < yum remove <package name> >
 
+## Run the following yum commands to install the package:
+For OpenJDK 17
+sudo yum install java-17-openjdk
 
+For OpenJDK 11
