@@ -1,0 +1,19 @@
+Jenkins - Continuous Integration and Continuous Delivery/Deployment
+< Continuous Integration = Continuous Build + Continuous test>
+< Continuous Delivery = Manual way of Deployment to the Production>
+< Continuous Deployment = Automatic way Deployment to the Production >
+The Default Port number for Jenkins 8080
+Jenkins is a JAVA BAsed Application ,So the Prerequisite for Jenkins is JAVA
+Step1: Install JAVA
+< yum install java >
+
+To list the Installed packages 
+< yum list installed >
+
+To filter the required packages
+< yum list installed | grep java >
+
+To remove any package 
+< yum remove <package name> >
+
+
