@@ -14,7 +14,7 @@ To filter the required packages
 < yum list installed | grep java >
 
 To remove any package 
-< yum remove <package name> >
+< yum remove <package name> >   or  << yum remove java* >>
 
 ## Run the following yum commands to install the package:
 For OpenJDK 17
