@@ -46,3 +46,12 @@ systemctl start jenkins.service
 systemctl status jenkins.service
 
 sh jenkins.sh
+
+
+1. USER DEFINED PARAMETERS: this parameters can be given by user only.
+
+a. Choice parameter: used when we have multiple options to generate a build but need to use only on specific one.
+b. String Parameter: it passess user input in single line.
+c. Multi Line string parameter: it passess user input in Multi line.
+d. File Parameter: It is used to build local files on jenkins.
+e. Boolean Parameter: it is used for yes or no options.
