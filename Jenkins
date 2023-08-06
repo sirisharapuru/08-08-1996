@@ -55,3 +55,23 @@ b. String Parameter: it passess user input in single line.
 c. Multi Line string parameter: it passess user input in Multi line.
 d. File Parameter: It is used to build local files on jenkins.
 e. Boolean Parameter: it is used for yes or no options.
+
+
+Day-3
+
+## VARIABLES: which will store the values & changes as per the time.
+
+a. USER DEFINED VARS: 
+1. LOCAL VARS: it will work inside a job
+
+name=siva
+loc=hyderabad
+echo "hai all my name is $name, $name is comming from $loc"
+
+
+2. GLOBAL VARS: it will work outside of a job
+Dashboard -- > Manage Jenkins -- > System -- > Environment vars -- > add 
+
+b. JENKINS ENVIRONMENT VARS: it can be defined by user
+
+
