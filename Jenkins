@@ -77,13 +77,15 @@ b. JENKINS ENVIRONMENT VARS: it can be defined by user
 
 DAY-03: 
 
-CRONJOB: To schedule the works
+CRONJOB: To schedule the works 
+           (work is going to run automatically)
+" ***** = It is a Syntax to schedule the work "
 
-*	: Minutes
-*	: Hours
-*	: Date
-*	: Month
-*	: day (0=sun)
+1st  *	represents Minutes
+2nd  *	represents Hours
+3rd  *	represents Date
+4th  *	represents Month
+5th  *	represents day (0=sun)
 
 9:00 am 23 : 0 9 23 6 5
 10:30 pm 22: 30 22 22 6 4
