@@ -95,3 +95,39 @@ RAID (Redundant Array of Independent Disks) is a technology used to combine mult
 
 31.	How do you create a partition in Linux?
 The "fdisk" command is commonly used to create partitions in Linux.
+
+
+
+Important Interview Questions on Linux
+
+1. What are the basic components of Linux?
+Ans.-- 1. Kernel 2. System Library 3. System Utility
+
+2. Which command would you use to remove the password assigned to a group?
+Ans.-- gpasswd – r
+
+3. What daemon is used for scheduling of the commands?
+Ans.-- crontab command
+
+4. Name the different modes used with vi editor?
+Ans.-- 1.Command Mode 2.Insert Mode 3.Visual Mode 4.Replace Mode 5.Ex Mode
+
+5. What are File Permission groups in Linux?
+Ans.-- 1.Owner 2.Group
+ 3.All Users
+
+6. Name the different types of file systems in Linux?
+Ans.-- 1.Ext 2.Ext2 3.Ext3 4.Ext4 5.JFS 6.XFS 7.Btrfs 8.Ufs 9.Autofs etc....
+
+7. How can we lock the user account in Linux?
+Ans.-- 1.Disable the password 2.Delete the user account 3.Switching the shell using nologin command ( /sbin/nologin ).
+
+8. Mention some Linux file content commands?
+Ans.-- 1.head 2.tail 3.cat
+ 4.more
+
+9. What are the different types of Process Management System Calls in Linux?
+Ans.-- 1.fork () 2.exec () 3.wait() 4.exit() etc...
+
+10. What are the different process states in Linux?
+Ans.-- 1.Ready 2.Running 3.Waiting 4.Terminated/Stopped 5.Zombie
