@@ -1,0 +1,22 @@
+Are you preparing for an AWS interview?
+-----------------------------------------
+Whether you're a fresher or an experienced professional, it's crucial to be well-prepared to showcase your AWS knowledge. Here are some common AWS interview questions and their answers to help you succeed:
+------------------------------------
+For Fresher Candidates:
+1️⃣ What is AWS?
+AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services, including computing power, storage, and databases.
+2️⃣ What are the core AWS services?
+The core AWS services include EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), RDS (Relational Database Service), and Lambda, among others.
+3️⃣ What is an EC2 instance?
+An EC2 instance is a virtual server in the AWS cloud that you can configure and run as per your requirements.
+For Experienced Candidates:
+1️⃣ Explain the difference between Amazon RDS and Amazon DynamoDB.
+Amazon RDS is a relational database service, while Amazon DynamoDB is a NoSQL database service. RDS is suitable for structured data, while DynamoDB is designed for unstructured or semi-structured data.
+2️⃣ What is AWS Lambda, and how does it work?
+AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying infrastructure.
+3️⃣ What is the significance of AWS Identity and Access Management (IAM)?
+IAM allows you to control access to AWS services and resources securely. It helps you manage users, groups, and permissions.
+Preparation and knowledge are the keys to success in AWS interviews. Make sure to research these questions thoroughly and practice your responses. Remember to showcase your problem-solving skills and real-world experience.
+If you have any more AWS interview questions or need further guidance, feel free to ask. Best of luck with your AWS interview preparations! 🌟
+#AWSInterview #CloudComputing #CareerDevelopment #TechInterview #AWS #prominentacademy #prominent
+Feel free to use this LinkedIn post to share valuable information and engage with your network. Good luck with your AWS interviews!
